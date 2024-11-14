@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 
 	"github.com/spf13/cobra"
-	"github.com/t1utiu/jdkvm/config"
+	"github.com/t1utiu/javm/config"
 )
 
 func useJdk(cmd *cobra.Command, args []string) {

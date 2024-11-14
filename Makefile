@@ -1,2 +1,2 @@
 build:
-	go build -o output/jdkvm.exe main.go
+	go build -o output/javm.exe main.go

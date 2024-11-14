@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/t1utiu/jdkvm/cmd"
+	"github.com/t1utiu/javm/cmd"
 )
 
 func main() {

@@ -14,7 +14,7 @@ type Config struct {
 func GetConfig() (*Config, error) {
 	var config Config
 
-	file, err := os.ReadFile(filepath.Join(os.Getenv("JDKVM_HOME"), "config.json"))
+	file, err := os.ReadFile(filepath.Join(os.Getenv("JAVM_HOME"), "config.json"))
 	if err != nil {
 		return nil, err
 	}

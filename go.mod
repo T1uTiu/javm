@@ -1,4 +1,4 @@
-module github.com/t1utiu/jdkvm
+module github.com/t1utiu/javm
 
 go 1.21.6
 
